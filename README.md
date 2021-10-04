@@ -1,6 +1,6 @@
 # E-School
 
-Live Website: [https://review-website-sajidmahamud835.netlify.app/)](https://review-website-sajidmahamud835.netlify.app/).
+Live Website: [https://review-website-sajidmahamud835.netlify.app/](https://review-website-sajidmahamud835.netlify.app/).
 
 ## Features
  * Search the services you are looking for.
