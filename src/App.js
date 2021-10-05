@@ -30,15 +30,15 @@ function App() {
             <Services></Services>
           </Route>
 
-          <Route path="/about">
+          <Route exact path="/about">
             <About></About>
           </Route>
 
-          <Route path="/contact">
+          <Route exact path="/contact">
             <Contact></Contact>
           </Route>
 
-          <Route>
+          <Route exact path="*">
             <NotFound></NotFound>
           </Route>
 
