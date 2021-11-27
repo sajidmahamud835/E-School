@@ -1,4 +1,4 @@
-# E-School
+# E-School - An Education Related Website
 
 Live Website: [https://review-website-sajidmahamud835.netlify.app/](https://review-website-sajidmahamud835.netlify.app/).
 
