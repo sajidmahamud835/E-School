@@ -1,93 +1,73 @@
 [
     {
         "id": 1,
-        "name": "IELTS",
-        "duration": 90,
-        "class": 65,
-        "modeltest": 16,
-        "price": 120,
-        "support": "all time",
-        "img": "/image/1.png"
-    },
-    {
-        "id": 2,
-        "name": "Python",
-        "duration": 65,
-        "class": 60,
-        "modeltest": 12,
-        "support": "all time",
-        "price": 200,
-        "img": "/image/2.jpg"
-    },
-    {
-        "id": 3,
         "name": "GRE",
         "duration": 120,
         "class": 75,
         "modeltest": 22,
         "support": "lifetime",
         "price": 120,
-        "img": "/image/3.png"
+        "img": "/image/1.png"
     },
     {
-        "id": 4,
+        "id": 2,
         "name": "English",
         "duration": 90,
         "class": 70,
         "modeltest": 15,
         "support": "lifetime",
         "price": 300,
-        "img": "/image/4.jpg"
+        "img": "/image/2.jpg"
     },
     {
-        "id": 5,
+        "id": 3,
         "name": "English Grammar",
         "duration": 80,
         "class": 60,
         "modeltest": 20,
         "support": "Life time",
         "price": 400,
-        "img": "/image/5.jpg"
+        "img": "/image/3.png"
     },
     {
-        "id": 6,
+        "id": 4,
         "name": "English Spoken",
         "duration": 120,
         "class": 90,
         "modeltest": 22,
         "support": "Before Exam",
         "price": 200,
-        "img": "/image/6.jpg"
+        "img": "/image/4.jpg"
     },
     {
-        "id": 7,
+        "id": 5,
         "name": "English Writing",
         "duration": 80,
         "class": 70,
         "modeltest": 20,
         "support": "All time",
         "price": 130,
-        "img": "/image/7.jpg"
+        "img": "/image/5.jpg"
     },
     {
-        "id": 8,
+        "id": 6,
         "name": "Web Development",
         "duration": 85,
         "class": 65,
         "modeltest": 15,
         "support": "All time",
         "price": 345,
-        "img": "/image/8.jpg"
+        "img": "/image/6.jpg"
     },
     {
-        "id": 9,
+        "id": 7,
         "name": "HTML",
         "duration": 60,
         "class": 45,
         "modeltest": 15,
         "support": "All Time",
         "price": 8000,
-        "img": "/image/9.jpg"
+        "img": "/image/7.jpg"
     },
     {
         "id": 10,
@@ -97,6 +77,6 @@
         "modeltest": 145,
         "support": "All Time",
         "price": 7000,
-        "img": "/image/10.jpg"
+        "img": "/image/8.jpg"
     }
 ]
