@@ -47,7 +47,7 @@
         "modeltest": 20,
         "support": "Life time",
         "price": 400,
-        "img": "/image/5.png"
+        "img": "/image/5.jpg"
     },
     {
         "id": 6,
@@ -81,42 +81,22 @@
     },
     {
         "id": 9,
-        "name": "English University Admission",
-        "duration": 88,
-        "class": 60,
-        "modeltest": 32,
-        "support": "All Time",
-        "price": 124,
-        "img": "/image/9.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Job English",
-        "duration": 90,
-        "class": 75,
-        "modeltest": 22,
-        "support": "All Time",
-        "price": 16000,
-        "img": "/image/10.jpg"
-    },
-    {
-        "id": 11,
         "name": "HTML",
         "duration": 60,
         "class": 45,
         "modeltest": 15,
         "support": "All Time",
         "price": 8000,
-        "img": "/image/11.jpg"
+        "img": "/image/9.jpg"
     },
     {
-        "id": 12,
+        "id": 10,
         "name": "JavaScript",
         "duration": 50,
         "class": 45,
         "modeltest": 145,
         "support": "All Time",
         "price": 7000,
-        "img": "/image/12.jpg"
+        "img": "/image/10.jpg"
     }
 ]

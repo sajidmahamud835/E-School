@@ -32,3 +32,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/246131dc-a1f0-457b-a804-9e619c25af6b/deploy-status)](https://app.netlify.com/sites/review-website-sajidmahamud835/deploys)
